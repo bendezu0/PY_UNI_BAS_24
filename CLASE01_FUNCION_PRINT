@@ -1,0 +1,9 @@
+nombre = "Marco"
+edad = 18
+
+print("Hola mundo")
+print("Bienvenidos al curso")
+
+print(edad)
+
+print("Mi nombre es", nombre)
