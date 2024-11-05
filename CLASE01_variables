@@ -1,0 +1,9 @@
+#asignar variables
+#las variables siempre van en minuscula y sin espacios
+
+edad = 18
+nombre = "Marco"
+precio_zapatos = 149.5
+
+aprobado = False
+mayor_edad = True
